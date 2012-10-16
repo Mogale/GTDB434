@@ -36,12 +36,25 @@ UPDATE locales_achievement_reward SET subject_loc3='', text_loc3=NULL;
 
 UPDATE locales_achievement_reward SET subject_loc3='Glückwunsch', text_loc3='Viele Glückwunsche bezüglich eurer Überzeugung, auch die 80. Saison der Abenteurer zu erreichen. Ihr seit zweifellos dem Ziel ergben, Azeroth vom Bösen zu befreien.$B$BObwohl der Weg hierher keine Kleinigkeit war, steht der wahre Kampf erst noch bevor.$B$BKämpft weiter!$B$BRhonin' WHERE entry=13;
 UPDATE locales_achievement_reward SET subject_loc3='Ihr seid rumgekommen!', text_loc3='Nun seht Euch mal an!$B$BUnd ich dachte, ich hätte hier an diesem eisigen Ort schon einiges gesehen! Diesem Zwerg scheint es offensichtlich, dass das Feuer eines Forschers in Euren Augen brennt.$B$BTrage diesen Wappenrock mit Stolz, dann wissen Eure Freunde, wem sie nach dem Weg fragen müssen, wenn die Zeit gekommen ist!$B$BMacht weiter so!$B$BBrann Bronzebart' WHERE entry=45;
+UPDATE locales_achievement_reward SET subject_loc3='Weltenbummler', text_loc3='' WHERE entry=46;
+UPDATE locales_achievement_reward SET subject_loc3='Kampfmeister', text_loc3='' WHERE entry=230;
+UPDATE locales_achievement_reward SET subject_loc3='Erster Obsidianvernichter des Realms!', text_loc3='' WHERE entry=456;
 UPDATE locales_achievement_reward SET subject_loc3='Für die Allianz!', text_loc3='Krieg überzieht unsere Länder. Nur die tapfersten aller Helden wagen es, der Horde dort einen Schlag zu versetzen, wo es wehtut. Ihr gehört zu eben diesen Helden.$B$BDer Schlag, den Ihr der Führung der Horde versetzt habt, bereitet unseren Weg für den finalen Angriff. Die Horde wird sich vor der Macht der Allianz verbeugen.$B$BEure Taten bleiben nicht ungewürdigt. Reitet mit Stolz!$B$B--Euer König' WHERE entry=614;
-
-/* locales_achievement_reward entry=619' translation is missing) */
-
-/* locales_achievement_reward entry=876' translation is missing) */
-
+UPDATE locales_achievement_reward SET subject_loc3='Für die Horde!', text_loc3='' WHERE entry=619;
+UPDATE locales_achievement_reward SET subject_loc3='Der Eroberer', text_loc3='' WHERE entry=714;
+UPDATE locales_achievement_reward SET subject_loc3='Botschafter der Horde', text_loc3='' WHERE entry=762;
+UPDATE locales_achievement_reward SET subject_loc3='100.000 ehrenhafte Siege', text_loc3='' WHERE entry=870;
+UPDATE locales_achievement_reward SET subject_loc3='Segel setzen, Admiral!', text_loc3='' WHERE entry=871;
+UPDATE locales_achievement_reward SET subject_loc3='Brutaler Kämpfer', text_loc3='' WHERE entry=876;
+UPDATE locales_achievement_reward SET subject_loc3='Der Vollstrecker', text_loc3='' WHERE entry=907;
+UPDATE locales_achievement_reward SET subject_loc3='Respekt vor den Urahnen', text_loc3='' WHERE entry=913;
+UPDATE locales_achievement_reward SET subject_loc3='Der Diplomat', text_loc3='' WHERE entry=942;
+UPDATE locales_achievement_reward SET subject_loc3='Der Diplomat', text_loc3='' WHERE entry=943;
+UPDATE locales_achievement_reward SET subject_loc3='Der Argentumchampion', text_loc3='' WHERE entry=945;
+UPDATE locales_achievement_reward SET subject_loc3='Botschafter der Allianz', text_loc3='' WHERE entry=948;
+UPDATE locales_achievement_reward SET subject_loc3='Wächter des Cenarius', text_loc3='' WHERE entry=953;
+UPDATE locales_achievement_reward SET subject_loc3='3.000 Quests abgeschlossen', text_loc3='' WHERE entry=978;
+UPDATE locales_achievement_reward SET subject_loc3='40 ehrfürchtige Fraktionen', text_loc3='' WHERE entry=1015;
 UPDATE locales_achievement_reward SET subject_loc3='Ganz schön erfolgreich', text_loc3='Mir ist aufgefallen, was für eine eindrucksvolle Sammlung an Wappenröcken Ihr mit der Zeit gesammelt habt. Ihr könnt diesen hier genauso gut Eurer Sammlung hinzufügen. Er hat in meinem Schrank nur Staub angesetzt.' WHERE entry=1021;
 UPDATE locales_achievement_reward SET subject_loc3='Stinkis neues Zuhause', text_loc3='Ich habe gehört, wie gut Ihr Euch um unsere pelzigen Freunde kümmert. Ich hoffe, es macht Euch nichts aus, aber ich muss Stinki ein neues Zuhause verschaffen. Er weigert sich einfach, friedlich mit den Anderen zu spielen.$B$BBitte stellt sicher, dass er zweimal täglich gefüttert wird. Und, ähm... er hat eine Schwäche für schwarze Katzen.$B$B--Breanni' WHERE entry=1250;
 
