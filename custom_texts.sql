@@ -1,13 +1,14 @@
 ################################################################################
 #####                                                                      #####
-#####          GGGGGGGG        AA         DDDDDDD    BBBBBBB               #####
-#####         GG              A  A        D     DD   B      B              #####
-#####        GG    GGG       A    A       D      D   BBBBBBB               #####
-#####         GG     GG     AAAAAAAA      D     DD   B      B              #####
-#####          GGGGGGG     A        A     DDDDDDD    BBBBBBB               #####
-#####                             CREW                                     #####
+#####          GGGGGGGG    tttttttttt    DDDDDDD    BBBBBBB                #####
+#####         GG              tt         D     DD   B      B               #####
+#####        GG    GGG        tt         D      D   BBBBBBB                #####
+#####         GG     GG       tt         D     DD   B      B               #####
+#####          GGGGGGG        tt         DDDDDDD    BBBBBBB                #####
+#####                       für Cataclysm 434                              #####
 ################################################################################
 # Copyright (C) 2007-2012 GMDB <http://sourceforge.net/projects/gm-db>         #
+# Copyright (C) 2012 GTDB434 <https://github.com/Blizz-Power/GTDB434>          #
 #                                                                              #
 # This program is free software: you can redistribute it and/or modify         #
 # it under the terms of the GNU General Public License as published by         #

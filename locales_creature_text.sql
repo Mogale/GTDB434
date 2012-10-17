@@ -28,7 +28,7 @@
 SET NAMES 'utf8';
 
 ##### locales_creature_text #####
-
+INSERT IGNORE INTO locales_creature_text (entry) SELECT entry FROM creature_text;
 UPDATE locales_creature_text SET text_loc3=NULL;
 
 UPDATE locales_creature_text SET text_loc3='%s versucht vor Angst davon zu rennen!' WHERE entry=16332;
